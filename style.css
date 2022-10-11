@@ -1,0 +1,481 @@
+#bg {
+    padding-right: 0px;
+    background-image: url(imgs/burger.png);
+    background-size: 100%;
+    background-color: rgba(28, 28, 28, 1);
+}
+
+.burger  {
+    width: 100%;
+    height: 100%;
+}
+
+.logo {
+    top: 0px;
+}
+
+.img {
+    margin-left: 220px;
+}
+
+.buttons {
+    padding-top: 35px;
+    margin-left: 300px;
+}
+
+.buttons a:hover {
+    transform: scale(2);
+    color: white;
+    font-weight: 700;
+}
+
+.text {
+    margin-left: 25px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: rgba(255, 255, 255, 1);
+    text-decoration: none;
+}
+    /* кнопка ордед нау*/
+
+.buy button {
+    border: 0px;
+    margin-top: 20px;
+    width: 165px;
+    height: 50px;
+    color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: #F6762C;
+}
+
+.buy button:hover {
+    transform: scale(1.1);
+    font-weight: 700;
+}
+
+    /*FAST FOOD BURGERS*/
+
+.textbox {
+    margin-left: 265px;
+}
+
+#tb1 {
+    margin-top: 225px;
+    padding-left: 0px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+    width: 160px;
+    height: 16px;
+}
+
+#tb2 {
+    margin-top: 7px;
+    padding-left: 0px;
+    width: 555px;
+    height: 121px;
+    color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 58px;
+    line-height: 67px;
+}
+
+#tb3 {
+    margin-top: 35px;
+    padding-left: 0px;
+    width: 523px;
+    height: 86px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+    opacity: 0.7;
+}
+
+.b2 {
+    padding-top: 100px;
+    padding-left: 252px;
+}
+
+.block2 {
+    background-color: rgba(28, 28, 28, 1);
+}
+
+.icons {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 360px;
+    margin-top: 300px;
+    text-align: center;
+}
+
+.icon {
+    text-decoration: none;
+    margin-left: 30px;
+    padding-left: 0px;
+    border-radius: 10px;
+    width: 263px;
+    background-color: rgba(49, 47, 48, 1);
+    color: white;
+    text-align: center;
+}
+
+.text1icon {
+    text-align: center;
+    margin-top: 28px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+}
+
+.text2icon {
+    margin-top: 13px;
+    width: 250px;
+    opacity: 0.7;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+}
+
+.main {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.icons a:hover {
+    box-shadow: 0px 5px 30px 3px black;
+    transform: scale(1) translatey(-10%);
+    color: white;
+}
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+/* BURGER KING*/
+
+.block3 {
+    width: 100%;
+    height: 545px;
+    background-color: #312F30;;
+}
+
+.bk {
+    width: 550px;
+    height: 500px;
+    margin-left: 350px;
+}
+
+.text-bk {
+    margin-left: 150px;
+    margin-top: 165px;
+    font-family: 'Roboto';
+    color: white;
+    width: 380px;
+}
+
+.bk1 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 44.2px;
+    line-height: 52px;
+}
+
+.bk2 {
+    margin-top: 24px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    opacity: 0.7;
+}
+
+.bk3 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-left: -10px;
+}
+
+.price1 {
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.1em;
+    color: #F6762C;
+    
+}
+
+.price2 {
+    margin-top: 3px;
+    margin-left: 8px;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.1em;
+    text-decoration-line: line-through;
+    color: #F6762C;
+    opacity: 0.5;
+}
+
+.bk6 {
+    margin-left: -10px;
+}
+
+/* MENU */
+
+.block55 {
+    padding-top: 150px;
+    background-color:rgba(28, 28, 28, 1);
+    height: 1480px;
+}
+
+.coffeepizza { 
+    height: 300px;
+    width: 1140px;
+    margin-left: 400px;
+}
+
+.menutext {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    color: #FFFFFF;
+    margin-top: -235px;
+}
+
+#menutext {
+    margin-left: 290px;
+}
+
+#menutext2 {
+    margin-left: 50px;
+}
+
+.burpapa {
+    margin-left: 400px;
+    height: 300px;
+    width: 1140px;
+    margin-top: 30px;
+}
+
+.menu {
+    width: 540px;
+    height: 300px;
+}
+
+.menutext2 {
+    margin-top: 18px;
+    width: 252px;
+    margin-left: 290px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    opacity: 0.7;
+}
+
+.menutext3 {
+    margin-top: 10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+}
+
+#menubut {
+    margin-left: 290px;
+}
+
+#menubut2 {
+    margin-left: 50px;
+}
+
+.ellipse {
+    opacity: 0.3;
+    border: 1px dashed #F6762C;
+    border-radius: 50%;
+}
+
+#ellipse1 {
+    margin-left: 550px;
+    margin-top: 200px;
+    width: 346px;
+    height: 346px;
+}
+
+#ellipse2 {
+    margin-left: 610px;
+    margin-top: -285px;
+    width: 230px;
+    height: 230px;
+}
+
+#face1 {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    margin-left: 575px;
+    margin-top: -260px;
+}
+
+.face {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+}
+
+#face2 {
+    position: absolute;
+    left: 550px;
+    margin-top: -250px;
+}
+
+#face3 {
+    position: absolute;  
+    left: 775px;
+    margin-top: -300px;
+}
+
+#face4 {
+    position: absolute;   
+    left: 625px;
+}
+
+#face5 {
+    left: 800px;
+    margin-top: -25px;
+    position: absolute;   
+}
+
+.facesinfo {
+    margin-top: -225px;
+    font-family: 'Roboto';
+    font-style: normal;
+    color: white;
+    margin-left: 1100px;
+    text-align: center;
+}
+
+.info1 {
+    padding-left: 175px;
+    margin-bottom: 40px;
+}
+
+.info2 {
+    width: 368px;
+    height: 53px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    opacity: 0.7;
+}
+
+.info3 {
+    margin-top: 25px;
+    padding-left: 100px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.info4 {
+    padding-left: 165px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+/* FOOOOOOOOOTER*/
+
+.block6 {
+    padding: 0px;
+}
+
+.foot1 {
+    background-color: #312F30;
+    width: 100%;
+    height: 170px;
+}
+
+.foot2 {
+    padding-top: 100px;
+    background-color:rgba(28, 28, 28, 1) ;
+    width: 100%;
+    height: 380px;
+}
+
+.foottext {
+    margin-top: 60px;
+    color: white;
+    text-align: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+}
+
+#download { 
+    margin-top: 45px;
+}
+
+.cntcts {
+    color: white;
+    text-decoration: none;  
+}
+
+.i {
+    padding-top: 30px;
+}
+
+.our {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    margin-top: 15px;
+}
+
+#our {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+#our1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    opacity: 0.7;
+}
